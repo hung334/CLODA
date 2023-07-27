@@ -8,14 +8,14 @@
 ### PASCAL VOC2012
 You will need to download the images (JPEG format) in PASCAL VOC2012 dataset at [here](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) and train_aug ground-truth can be found at [here](http://home.bharathh.info/pubs/codes/SBD/download.html). Make sure your `data/VOC2012 folder` is structured as follows:
 
-`
+```
 ├── VOC2012/
 |   ├── Annotations
 |   ├── ImageSets
 |   ├── SegmentationClass
 |   ├── SegmentationClassAug
 |   └── SegmentationObject
-`
+```
 
 ## 2.訓練W-OoD
 cd `./CLODA/w-ood-main/`
