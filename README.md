@@ -1,4 +1,4 @@
-# CLODA: Cross-Language Image Matching Based on Out-of-Distribution Data and Convolutional Block Attention Module for Weakly Supervised Semantic Segmentation
+# CLODA: Cross Language Image Matching Based on Out-of-Distribution Data and Convolutional Block Attention Module for Weakly Supervised Semantic Segmentation
 
 ### 架構圖
 ![image](https://github.com/hung334/CLODA/blob/master/CLODA.png)
